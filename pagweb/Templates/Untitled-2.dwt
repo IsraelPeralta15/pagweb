@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>gopi</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/estilos.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href="#"><img src="../img/ISra.gif" alt="Insertar logotipo aquí" name="Insert_logo" width="254" height="222" id="Insert_logo" style="background-color: #8090AB; display: block; color: #D6D6D6;" align="middle" /></a><!-- end .header --></div>
+  <div class="content"><!-- TemplateBeginEditable name="editar aqui" -->editar aqui<!-- TemplateEndEditable -->
+  
+  
+  
+  
+  
+   <br><br><br><br><br> 
+      
+   
+   
+   
+   
+  <!-- end .content --></div>
+  <div class="footer">
+    <p>Pie de página</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
